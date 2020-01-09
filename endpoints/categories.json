@@ -1,0 +1,26 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "id": 1,
+            "name": "Movies",
+            "icon": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Events",
+            "icon": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Plays",
+            "icon": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Sports",
+            "icon": "https://randomuser.me/api/portraits/men/1.jpg"
+        }
+    ]
+}

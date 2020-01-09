@@ -1,0 +1,10 @@
+{
+    "code": 1,
+    "message": "Signup successful!!",
+    "data": {
+        "username": "tbs.arpit",
+        "email": "tbs.arpit@gmail.com",
+        "fullname": "Arpit Vasani",
+        "profile_url":"https://randomuser.me/api/portraits/men/1.jpg"
+    }
+}

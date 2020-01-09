@@ -1,0 +1,22 @@
+{
+  "name": "mock-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "open": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.1.73:6768/Arpit/mock-api-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
