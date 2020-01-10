@@ -5,22 +5,22 @@
         {
             "id": 1,
             "name": "Movies",
-            "icon": "https://randomuser.me/api/portraits/men/1.jpg"
+            "icon": "/assets/movies.png"
         },
         {
             "id": 2,
             "name": "Events",
-            "icon": "https://randomuser.me/api/portraits/men/1.jpg"
+            "icon": "/assets/events.png"
         },
         {
             "id": 3,
             "name": "Plays",
-            "icon": "https://randomuser.me/api/portraits/men/1.jpg"
+            "icon": "/assets/plays.png"
         },
         {
             "id": 4,
             "name": "Sports",
-            "icon": "https://randomuser.me/api/portraits/men/1.jpg"
+            "icon": "/assets/sports.png"
         }
     ]
 }

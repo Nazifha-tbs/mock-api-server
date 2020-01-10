@@ -11,7 +11,7 @@ Get records of a particular endpoint
 Update records of an endpoint
 
 ### POST
-Create new record in a endpoint
+Create new record in an endpoint
 
 ### Delete
 Delete a record of an endpoint
