@@ -10,7 +10,7 @@
         {
             "id": 2,
             "name": "Events",
-            "icon": "/assets/events.png"
+            "icon": "/assets/events.svg"
         },
         {
             "id": 3,
@@ -21,6 +21,16 @@
             "id": 4,
             "name": "Sports",
             "icon": "/assets/sports.png"
+        },
+        {
+            "id": 5,
+            "name": "Activity",
+            "icon": "/assets/flag.svg"
+        },
+        {
+            "id": 6,
+            "name": "Monum",
+            "icon": "/assets/pyramid.svg"
         }
     ]
 }

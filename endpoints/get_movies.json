@@ -1,0 +1,216 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "id": 1,
+            "name": "Charlie's Angels",
+            "icon": "/assets/images.png",
+            "rate": "98%",
+            "votes": "1.8k votes",
+            "category": "Action, Drama",
+            "duration": " 2h 59m",
+            "reviewData": [
+                {
+                    "total": "1,065",
+                    "date": "Nov 7, 2019",
+                    "writer": "Mokka mohan",
+                    "review": "With all the updates after the last few months the app has improved a lot. Keeps me up to date."
+                }
+            ],
+            "castData": [
+                {
+                    "castName": "chadwick",
+                    "castImage": "/assets/cast1.png"
+                },
+                {
+                    "castName": "Letitia Wright",
+                    "castImage": "/assets/cast2.png"
+                },
+                {
+                    "castName": "B. Jordan",
+                    "castImage": "/assets/cast3.png"
+                },
+                {
+                    "castName": "Lupita Nyong",
+                    "castImage": "/assets/cast4.png"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Jumanji",
+            "icon": "/assets/images1.png",
+            "rate": "84%",
+            "votes": "2.3k votes",
+            "category": "Action, Drama",
+            "duration": " 1h 59m",
+            "reviewData": [
+                {
+                    "total": "1,082",
+                    "date": "Oct 18, 2019",
+                    "writer": "Mokka mohan",
+                    "review": "With all the updates after the last few months the app has improved a lot. Keeps me up to date."
+                }
+            ],
+            "castData": [
+                {
+                    "castName": "chadwick",
+                    "castImage": "/assets/cast1.png"
+                },
+                {
+                    "castName": "Letitia Wright",
+                    "castImage": "/assets/cast2.png"
+                },
+                {
+                    "castName": "B. Jordan",
+                    "castImage": "/assets/cast3.png"
+                },
+                {
+                    "castName": "Lupita Nyong",
+                    "castImage": "/assets/cast4.png"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Bad boy",
+            "icon": "/assets/images2.png",
+            "rate": "95%",
+            "votes": "3.1k votes",
+            "category": "Comedy, Drama",
+            "duration": " 2h 30m",
+            "reviewData": [
+                {
+                    "total": "938",
+                    "date": "Nov 10, 2019",
+                    "writer": "Mokka mohan",
+                    "review": "With all the updates after the last few months the app has improved a lot. Keeps me up to date."
+                }
+            ],
+            "castData": [
+                {
+                    "castName": "chadwick",
+                    "castImage": "/assets/cast1.png"
+                },
+                {
+                    "castName": "Letitia Wright",
+                    "castImage": "/assets/cast2.png"
+                },
+                {
+                    "castName": "B. Jordan",
+                    "castImage": "/assets/cast3.png"
+                },
+                {
+                    "castName": "Lupita Nyong",
+                    "castImage": "/assets/cast4.png"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Spies in disguise",
+            "icon": "/assets/images3.png",
+            "rate": "88%",
+            "votes": "1.5k votes",
+            "category": "Action, Drama",
+            "duration": " 2h 50m",
+            "reviewData": [
+                {
+                    "total": "1,008",
+                    "date": "Nov 30, 2019",
+                    "writer": "Mokka mohan",
+                    "review": "With all the updates after the last few months the app has improved a lot. Keeps me up to date."
+                }
+            ],
+            "castData": [
+                {
+                    "castName": "chadwick",
+                    "castImage": "/assets/cast1.png"
+                },
+                {
+                    "castName": "Letitia Wright",
+                    "castImage": "/assets/cast2.png"
+                },
+                {
+                    "castName": "B. Jordan",
+                    "castImage": "/assets/cast3.png"
+                },
+                {
+                    "castName": "Lupita Nyong",
+                    "castImage": "/assets/cast4.png"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Dolittle",
+            "icon": "/assets/images4.png",
+            "rate": "90%",
+            "votes": "1.8k votes",
+            "category": "Action, Drama",
+            "duration": " 3h 59m",
+            "reviewData": [
+                {
+                    "total": "2,565",
+                    "date": "Sep 25, 2019",
+                    "writer": "Mokka mohan",
+                    "review": "With all the updates after the last few months the app has improved a lot. Keeps me up to date."
+                }
+            ],
+            "castData": [
+                {
+                    "castName": "chadwick",
+                    "castImage": "/assets/cast1.png"
+                },
+                {
+                    "castName": "Letitia Wright",
+                    "castImage": "/assets/cast2.png"
+                },
+                {
+                    "castName": "B. Jordan",
+                    "castImage": "/assets/cast3.png"
+                },
+                {
+                    "castName": "Lupita Nyong",
+                    "castImage": "/assets/cast4.png"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The King's Man",
+            "icon": "/assets/images5.png",
+            "rate": "87%",
+            "votes": "1.8k votes",
+            "category": "Action, Drama",
+            "duration": " 1h 59m",
+            "reviewData": [
+                {
+                    "total": "1,403",
+                    "date": "may 21, 2019",
+                    "writer": "Mokka mohan",
+                    "review": "With all the updates after the last few months the app has improved a lot. Keeps me up to date."
+                }
+            ],
+            "castData": [
+                {
+                    "castName": "chadwick",
+                    "castImage": "/assets/cast1.png"
+                },
+                {
+                    "castName": "Letitia Wright",
+                    "castImage": "/assets/cast2.png"
+                },
+                {
+                    "castName": "B. Jordan",
+                    "castImage": "/assets/cast3.png"
+                },
+                {
+                    "castName": "Lupita Nyong",
+                    "castImage": "/assets/cast4.png"
+                }
+            ]
+        }
+    ]
+}

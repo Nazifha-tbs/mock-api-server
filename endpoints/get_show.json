@@ -1,0 +1,136 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "theaterName": "INOX - Prozone mall",
+            "location": "Nairobi",
+            "distance": "2.4 km away",
+            "address": "SP Towers, 343, Sathy Rd, Nairobi, 00100",
+            "showTiming": [
+                {
+                    "time": "10:00 AM",
+                    "cssClass": "buttonStyle",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "1:30 PM",
+                    "cssClass": "buttonActive",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "6:30 PM",
+                    "cssClass": "buttonStyle",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "9:30 PM",
+                    "cssClass": "buttonActive",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "12:30 AM",
+                    "cssClass": "buttonStyle",
+                    "disabled": false,
+                    "active": false
+                }
+            ]
+        },
+        {
+            "theaterName": "Karpagam theatres - 4K Dolby Atoms",
+            "location": "Coimbatore",
+            "distance": "3.2 km away",
+            "address": "SP Towers, 343, Sathy Rd, Nairobi, 00100",
+            "showTiming": [
+                {
+                    "time": "10:00 AM",
+                    "cssClass": "buttonActive",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "1:30 PM",
+                    "cssClass": "buttonStyle",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "6:30 PM",
+                    "cssClass": "buttonInactive",
+                    "disabled": true,
+                    "active": false
+                }
+                
+            ]
+        },
+        {
+            "theaterName": "KG theatres - 4K",
+            "location": "Nairobi",
+            "distance": "4 km away",
+            "address": "SP Towers, 343, Sathy Rd, Nairobi, 00100",
+            "showTiming": [
+                {
+                    "time": "10:00 AM",
+                    "cssClass": "buttonActive",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "1:30 PM",
+                    "cssClass": "buttonStyle",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "6:30 PM",
+                    "cssClass": "buttonActive",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "9:30 PM",
+                    "cssClass": "buttonStyle",
+                    "disabled": false,
+                    "active": false
+                }
+            ]
+        },
+        {
+            "theaterName": "Arasan Cinemas A/C 2K Dolby",
+            "location": "Coimbatore",
+            "distance": "4.4 km away",
+            "address": "SP Towers, 343, Sathy Rd, Nairobi, 00100",
+            "showTiming": [
+                {
+                    "time": "10:00 AM",
+                    "cssClass": "buttonStyle",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "1:30 PM",
+                    "cssClass": "buttonActive",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "6:30 PM",
+                    "cssClass": "buttonStyle",
+                    "disabled": false,
+                    "active": false
+                },
+                
+                {
+                    "time": "12:30 AM",
+                    "cssClass": "buttonInactive",
+                    "disabled": true,
+                    "active": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "code": 1,
+    "message" : "success",
+    "data" : [{
+        "name" : "Happy Halloween 2K19",
+        "image" : "/assets/event1.png",
+        "type" : "Music show"
+    },{
+        "name": "Music DJ king monger Sert...",
+        "image": "/assets/event2.png",
+        "type": "Music show"
+    },{
+        "name": "Summer sounds festiva..",
+        "image": "/assets/event3.png",
+        "type": "Music show"
+    },{
+        "name": "Happy Halloween 2K19",
+        "image": "/assets/event4.png",
+        "type": "Music show"
+    }]
+}

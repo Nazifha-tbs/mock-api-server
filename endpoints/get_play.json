@@ -1,0 +1,26 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "name": "Alex in wonderland",
+            "image": "/assets/play.png",
+            "type": "Comedy show"
+        },
+        {
+            "name": "Marry poppins puffet show",
+            "image": "/assets/play1.png",
+            "type": "Music show"
+        },
+        {
+            "name": "Patrimandram special dewali",
+            "image": "/assets/play2.png",
+            "type": "Comedy show"
+        },
+        {
+            "name": "Happy Halloween 2K19",
+            "image": "/assets/event3.png",
+            "type": "Music show"
+        }
+    ]
+}

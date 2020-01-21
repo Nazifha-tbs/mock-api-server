@@ -1,0 +1,24 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "type": "King",
+            "price": "$ 120.00",
+            "availability": "Filling fast",
+            "activated": false
+        },
+        {
+            "type": "Queen",
+            "price": "$ 100.00",
+            "availability": "Available",
+            "activated": false
+        },
+        {
+            "type": "Jack",
+            "price": "$ 80.00",
+            "availability": "Available",
+            "activated": false
+        }
+    ]
+}
