@@ -3,11 +3,14 @@
     "message": "success",
     "data": [
         {
+            "img" : "/assets/theater1.png",
             "theaterName": "INOX - Prozone mall",
             "location": "Nairobi",
-            "distance": "2.4 km away",
+            "distance": 2.4,
             "address": "SP Towers, 343, Sathy Rd, Nairobi, 00100",
-            "showTiming": [
+            "star" : "5 star",
+            "showTiming": 
+            [
                 {
                     "time": "10:00 AM",
                     "cssClass": "buttonStyle",
@@ -41,10 +44,12 @@
             ]
         },
         {
+            "img": "/assets/theater2.png",
             "theaterName": "Karpagam theatres - 4K Dolby Atoms",
             "location": "Coimbatore",
-            "distance": "3.2 km away",
+            "distance": 4.3,
             "address": "SP Towers, 343, Sathy Rd, Nairobi, 00100",
+            "star": "4.8 star",
             "showTiming": [
                 {
                     "time": "10:00 AM",
@@ -68,10 +73,12 @@
             ]
         },
         {
+            "img": "/assets/theater3.png",
             "theaterName": "KG theatres - 4K",
             "location": "Nairobi",
-            "distance": "4 km away",
+            "distance": 5.5,
             "address": "SP Towers, 343, Sathy Rd, Nairobi, 00100",
+            "star": "4.5 star",
             "showTiming": [
                 {
                     "time": "10:00 AM",
@@ -100,10 +107,12 @@
             ]
         },
         {
+            "img": "/assets/theater1.png",
             "theaterName": "Arasan Cinemas A/C 2K Dolby",
             "location": "Coimbatore",
-            "distance": "4.4 km away",
+            "distance":6,
             "address": "SP Towers, 343, Sathy Rd, Nairobi, 00100",
+            "star": "4.3 star",
             "showTiming": [
                 {
                     "time": "10:00 AM",
@@ -124,6 +133,41 @@
                     "active": false
                 },
                 
+                {
+                    "time": "12:30 AM",
+                    "cssClass": "buttonInactive",
+                    "disabled": true,
+                    "active": false
+                }
+            ]
+        }
+        ,
+        {
+            "img": "/assets/theater1.png",
+            "theaterName": "Westgate Cinema",
+            "location": "Nairobi",
+            "distance": 8,
+            "address": "Mwanzi Rd, Nairobi, Kenya",
+            "star": "4.3 star",
+            "showTiming": [
+                {
+                    "time": "10:00 AM",
+                    "cssClass": "buttonStyle",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "1:30 PM",
+                    "cssClass": "buttonActive",
+                    "disabled": false,
+                    "active": false
+                },
+                {
+                    "time": "6:30 PM",
+                    "cssClass": "buttonStyle",
+                    "disabled": false,
+                    "active": false
+                },
                 {
                     "time": "12:30 AM",
                     "cssClass": "buttonInactive",
